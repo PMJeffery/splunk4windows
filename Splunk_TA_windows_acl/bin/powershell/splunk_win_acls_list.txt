@@ -1,0 +1,2 @@
+C:\Critical_Files
+\\DC2012R2\target_share_folder

@@ -1,0 +1,2 @@
+C:\Critical_Files
+\\test_server\c$\Important_files
